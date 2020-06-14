@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\Cod Licenta\visual_workspace\logistic_regression\logistic_regression\main.cpp(43,26): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned long
+          ]
+D:\Cod Licenta\visual_workspace\logistic_regression\logistic_regression\main.cpp(64,25): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned long
+          ]
+  logistic_regression.vcxproj -> D:\Cod Licenta\visual_workspace\logistic_regression\Debug\logistic_regression.exe
